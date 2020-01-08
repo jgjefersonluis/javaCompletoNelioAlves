@@ -1,14 +1,5 @@
 INDEX VERSION 1.131+C:\JefersonWorkSpace2020\java\javaCompleto2020\projetos\.metadata\.plugins\org.eclipse.jdt.core
-1204375214.index
 3206688307.index
-2872033403.index
 3510846143.index
-1177904427.index
-806062888.index
-1093488887.index
-3273689814.index
-916900781.index
-4121661813.index
-2043626465.index
-2569137926.index
-890887124.index
+4048323368.index
+3557961779.index
